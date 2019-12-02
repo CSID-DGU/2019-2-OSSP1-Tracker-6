@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context="com.example.mytest.MainActivity">
+<!--
+<RelativeLayout
+    android:id="@+id/fl1"
+    android:layout_width="203dp"
+    android:layout_height="333dp"
+    android:layout_gravity="top">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:gravity="center" />
+</RelativeLayout>
+
+<RelativeLayout
+    android:id="@+id/fl2"
+    android:layout_width="208dp"
+    android:layout_height="337dp"
+    android:layout_gravity="right"
+    android:layout_toEndOf="@+id/fl1">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:gravity="center" />
+</RelativeLayout>
+
+<RelativeLayout
+    android:id="@+id/fl3"
+    android:layout_width="203dp"
+    android:layout_height="343dp"
+    android:layout_below="@+id/fl1"
+    android:layout_gravity="bottom|left"
+    android:layout_marginTop="3dp">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:gravity="center" />
+</RelativeLayout>
+
+<RelativeLayout
+    android:id="@+id/fl4"
+    android:layout_width="205dp"
+    android:layout_height="342dp"
+    android:layout_below="@+id/fl1"
+    android:layout_gravity="bottom|left"
+    android:layout_marginStart="3dp"
+    android:layout_marginTop="3dp"
+    android:layout_toEndOf="@+id/fl3">
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:gravity="center" />
+</RelativeLayout>
+
+<LinearLayout
+    android:id="@+id/NN"
+    android:layout_width="203dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentBottom="true"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/previousKeyword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:background="@android:color/transparent"
+        android:text="이전 키워드"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/MM"
+    android:layout_width="206dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentBottom="true"
+    android:layout_gravity="fill_horizontal|top"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/currentKeyword"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:background="@android:color/transparent"
+        android:text="현재 키워드"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+</LinearLayout>-->
+
+</RelativeLayout>
